@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#navbar{
+background-color: rgb(0, 0, 0);
+padding: 20px;
+margin: 0px;
+color: red;
+
+
+
+}
+a{
+    color: red;
+    padding: 20px;
+    text-transform:uppercase;
+}
+
+marquee{
+    font-size: 20px;
+}
+.details{
+    text-align: center;
+    font-size: 28px;
+    text-decoration: none;
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.details2{
+    text-align: center;
+    color: rgb(142, 123, 99);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
