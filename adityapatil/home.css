@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(32, 30, 30);
+}
+ #nav{
+    background: crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding-right: 15px;
+padding-left: 15px; 
+
+}
+
+.navbar{
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    background-color: crimson;
+}
+ul{
+    background-color: crimson;
+}
+
+.uio{
+    background-color: crimson;
+    width: 200px;
+
+}
+li{ background-color: crimson;
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    background-color: crimson;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+
+}
+a{ background-color: crimson;
+    
+    
+    
+    font-size: 20px;
+
+    
+
+}
+
+.uio{
+    margin-left: 200px
+    
+}
+.input{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    
+}
+input{
+     width: 1350px;
+    font-size: 18px;
+    background-color: rgb(32, 30, 30);
+    padding: 5px;
+    
+    border-color: rgb(158, 148, 148);
+    
+    
+}
+#pic{
+    text-align: center;
+}
+.imgs{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.iio {
+    margin-top: 19px;
+}
+.iio a{
+    margin-top: 18px;
+    background-color: rgba(101, 105, 109, 0.638);
+    padding: 20px;
+    color: aliceblue;
+}
+
+#cover
+{  height: 500px;
+    display: flex;
+
+}
+a:hover
+{
+    color: yellow;
+}
+.box{
+    margin: 20px;
+    padding: 20px;
+    
+}
+.box p{
+    color: white;
+    margin-left: 20px;
+}
+.box img{
+    width: 200px;
+    border: 5px solid yellow;
+
+}
+.foot
+{
+    text-align: center;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.disc
+{
+    text-align: center;
+    margin-top: 10px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+P:hover{
+    color: red;
+}
+ 
+
+/* -by aditya patil */
